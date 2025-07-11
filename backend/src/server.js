@@ -30,6 +30,7 @@ app.use(rateLimiter);
 //   next();
 // });
 
+// routes
 app.use("/api/notes", notesRoutes);
 
 if (process.env.NODE_ENV === "production") {
