@@ -146,13 +146,6 @@ curl -X POST http://localhost:5001/api/notes \
 curl http://localhost:5001/api/notes
 ```
 
-## 🎨 Screenshots
-
-### Main Dashboard
-![Dashboard](https://via.placeholder.com/600x400/1f2937/ffffff?text=Notes+Dashboard)
-
-### Note Editor
-![Note Editor](https://via.placeholder.com/600x400/1f2937/ffffff?text=Note+Editor)
 
 ## 🚀 Deployment
 
@@ -199,9 +192,9 @@ npm run format
 
 ## 📧 Contact
 
-**Your Name** - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+**Soultane Raqi** - [@RaqiSoultane](https://twitter.com/RaqiSoultane) - soultaneraqi1@gmail.com
 
-Project Link: [https://github.com/yourusername/soultane-notes](https://github.com/yourusername/soultane-notes)
+Project Link: [https://github.com/SoultaneRaqi/soultane-notes](https://github.com/SoultaneRaqi/soultane-notes)
 
 ---
 
